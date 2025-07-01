@@ -1,0 +1,15 @@
+venv/
+/venv/
+__pycache__/
+*.pyc
+contatosvendedores.xlsx
+historico_parabens.json
+historico_relatorios.json
+*.json
+logs/
+*.log
+*.png
+PyWhatKit_DB.txt
+Thumbs.db
+.DS_Store
+PyWhatKit_DB

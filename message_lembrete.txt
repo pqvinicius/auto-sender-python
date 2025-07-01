@@ -1,0 +1,3 @@
+Olá {Nome}, você já alcançou {Falta_Meta_Dia}% da sua meta diaria! 
+
+Vamos em frente e tenha uma boa tarde!

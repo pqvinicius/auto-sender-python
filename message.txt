@@ -1,0 +1,11 @@
+Bom dia {Nome}, tudo bem? Hoje é dia {data_atual}.
+
+O seu faturamento mensal é de: R$ {Faturado_mes} e a sua meta do mês é de: R$ {Meta}.
+Até agora, você já alcançou {Alcance}% da meta mensal. E está faltando R$ {falta_meta_mes} para você bater a meta!
+
+O seu faturamento projetado é de: R$ {Fat_Projetado}, representando {Pct_Projetado}% da sua meta mensal.
+Por fim, sua *meta diaria está em: R$ {Meta_diaria}.*
+
+Precisando só chamar! Desejo boas vendas.
+
+*Caso queira saber as gueltas ativas em sua loja, mande a palavra GUELTA que te envio*
